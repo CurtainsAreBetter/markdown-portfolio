@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Attributes  
+*not a pokemon 🔌*  
+Proficient with the **linux** command line  
+Able to write *useless* **python** scripts
